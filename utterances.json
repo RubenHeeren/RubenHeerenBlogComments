@@ -1,7 +1,7 @@
 {
     "origins": [
       "https://rubenheeren.com",
-      "https://rubenheeren.azurewebsites.net/",
+      "https://rubenheeren.azurewebsites.net",
       "https://localhost:7282"
     ]
   }
