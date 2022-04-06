@@ -1,5 +1,6 @@
 {
     "origins": [
-      "https://rubenheeren.com"      
+      "https://rubenheeren.com",
+      "https://localhost:7282"
     ]
   }
